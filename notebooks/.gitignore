@@ -1,0 +1,12 @@
+# Dados e modelos (não versionar)
+data/
+models/
+
+# Ambientes e cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
